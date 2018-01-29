@@ -2,5 +2,5 @@
 
 int main() {
   std::cout << "All good!" << std::endl;
-  return 1;
+  return 0;
 }
